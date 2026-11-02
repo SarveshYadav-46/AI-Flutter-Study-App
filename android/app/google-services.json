@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631187090997",
+    "project_id": "miner-project-39b4a",
+    "storage_bucket": "miner-project-39b4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631187090997:android:c21912c6a7e76389404b7c",
+        "android_client_info": {
+          "package_name": "com.example.minerproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWRxpIl4tQ9ZyxPflobHT1i8O5tWhNAcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
